@@ -70,7 +70,8 @@ Let's connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.sv
 ![](https://github-profile-trophy.vercel.app/?username=naveedamar&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=naveedamar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
+![snake gif](https://github.com/naveedamar/naveedamar/blob/output/github-snake-dark.svg)
+![](https://github-readme-stats.vercel.app/api?username=naveedamar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=naveedamar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 ![](https://nirzak-streak-stats.vercel.app/?user=naveedamar&theme=dark&hide_border=true)
 
