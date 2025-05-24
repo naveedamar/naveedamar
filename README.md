@@ -70,11 +70,11 @@ Let's connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.sv
 ![](https://github-profile-trophy.vercel.app/?username=naveedamar&theme=dark&no-frame=true&no-bg=true&margin-w=4)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=naveedamar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github) ![](https://nirzak-streak-stats.vercel.app/?user=naveedamar&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naveedamar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=950)
+![](https://github-readme-stats.vercel.app/api?username=naveedamar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github) 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=naveedamar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&card_width=1000)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=naveedamar&icon=4&color=12)](https://visitcount.itsvg.in)
