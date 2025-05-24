@@ -71,8 +71,8 @@ Let's connect on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.sv
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=naveedamar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github)
-![](https://nirzak-streak-stats.vercel.app/?user=naveedamar&theme=dark&hide_border=true)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naveedamar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=950)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=naveedamar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=naveedamar&theme=dark&hide_border=true)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
