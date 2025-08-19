@@ -143,7 +143,7 @@ class DeveloperProfile:
 
 ![](https://github-readme-stats.vercel.app/api?username=naveedamar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github) 
 ![](https://nirzak-streak-stats.vercel.app/?user=naveedamar&theme=dark&hide_border=true&card_width=370)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=naveedamar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&card_width=900&size_weight=0.5&count_weight=0.5)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=naveedamar&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=10&card_width=870)
 
 
 <p align="center">
