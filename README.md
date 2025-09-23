@@ -86,7 +86,7 @@ class DeveloperProfile:
     def get_skills_and_interests(self):
         return {
             "fields_of_interests": ["Data Science", "Machine Learning", "DevOps"],
-            "currently_learning": {"DSA", "SQL"}
+            "currently_learning": {"Assembly", "Data Structures and Algorithms"}
         }
 
     def get_personal_info(self):
