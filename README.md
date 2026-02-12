@@ -86,7 +86,7 @@ class DeveloperProfile:
     def get_skills_and_interests(self):
         return {
             "fields_of_interests": ["Data Science", "Machine Learning", "DevOps"],
-            "currently_learning": {"Assembly", "Data Structures and Algorithms"}
+            "currently_learning": {"Artificial Intelligence", "Operating Systems"}
         }
 
     def get_personal_info(self):
@@ -100,11 +100,19 @@ class DeveloperProfile:
             }
         }
 
-    def get_goals(self, year = 2025):
-        return [
-            "Create 5+ Projects",
-            "Learn at least 2-5 new Technologies"
-        ]
+    def get_goals(self):
+        return {
+            "2026_target": [
+                "Contribute to open-source OS or Kernel projects",
+                "Master LLM fine-tuning",
+                "Deep dive into AIOps and System Architecture"
+            ]
+
+            # 2025 Goals: MISSION ACCOMPLISHED
+            # self.create_projects(count=5)
+            # self.learn_technologies(range=(2, 5))
+        }
+
 # On a journey from code to impact.
 ```
   
@@ -126,6 +134,8 @@ class DeveloperProfile:
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="45" height="45"/>          
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" alt="powershell" width="45" height="45"  />
           
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" alt="json" width="45" height="45" />
